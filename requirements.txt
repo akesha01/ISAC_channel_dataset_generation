@@ -1,6 +1,6 @@
 # Core
-tensorflow==2.15.0
-sionna==0.15.0
+tensorflow
+sionna
 
 # Ray tracing dependencies (required by Sionna RT)
 mitsuba==3.4.0
