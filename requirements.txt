@@ -1,0 +1,18 @@
+# Core
+tensorflow==2.15.0
+sionna==0.15.0
+
+# Ray tracing dependencies (required by Sionna RT)
+mitsuba==3.4.0
+drjit==0.4.4
+
+# Numerical
+numpy>=1.23
+scipy
+
+# Visualization / debugging
+matplotlib
+
+# Data handling (optional but useful)
+h5py
+tqdm
